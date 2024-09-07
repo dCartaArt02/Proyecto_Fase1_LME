@@ -5,8 +5,8 @@
 {
     background-color: white;
     padding: 20px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 3%;
 }
 .titulo
@@ -18,7 +18,7 @@
     
     cursor: pointer;
     padding: 12px 20px;
-    width: 70%;
+    width: 150%;
     
 }
 body
