@@ -23,7 +23,7 @@
 }
 body
 {
-    background-color:  #d9f1ff ;
+    background-color:  white;
 }
 label {
     padding: 30px 30px 30px 0;
@@ -37,7 +37,7 @@ label {
   
   .btn
 {
-background-color:  #61c5ff ;
+background-color:  white;
   border: none;
   color: white;
   padding: 16px 32px;
@@ -50,14 +50,14 @@ background-color:  #61c5ff ;
   .derechos
   {
     text-align: center;
-    background-color:  #0f91db ;
+    background-color:  #ff8000 ;
     
     color: white;
     font-size: 30px;
     margin-bottom: 30px;
   }
   .titulo{
-    background-color:  #1aa7f7 ;
+    background-color:  #ff8000  ;
     color: white;
     height: 70%;
     font-size: 40px;
