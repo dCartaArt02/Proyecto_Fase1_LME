@@ -17,6 +17,99 @@ h1{
 }
 
 
+
+
 .list-group{
     text-align: center;
 }
+
+
+/*dt, dd{
+    display: flex;
+      align-items: flex-start;
+      gap: 20px; /* Espacio entre la imagen y el texto 
+}*/
+
+
+
+.info {
+    display: flex;
+    align-items: flex-start; 
+  }
+
+  .info dt {
+    font-weight: bold;
+    margin-right: 15px; 
+  }
+
+  .info dd {
+    margin: 0; 
+  }
+
+ 
+  .driver {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .driver{
+    justify-content: center;
+  }
+
+  .driver h5{
+    text-align: center;
+  }
+
+  .driver h6{
+    text-align: center;
+  }
+
+  .driver img{
+    padding: 2px;
+    margin: 2px;
+  }
+
+  .infocircuito {
+    display: flex;
+    align-items: flex-start; 
+  }
+
+  .infocircuito dt {
+    font-weight: bold;
+    margin-right: 15px; 
+  }
+
+  .infocircuito dd {
+    margin: 0; 
+  }
+
+ 
+  .circuito {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .circuito{
+    justify-content: center;
+  }
+/*
+  .driver h5{
+    text-align: center;
+  }
+
+  .driver h6{
+    text-align: center;
+  }*/
+
+  .driver img{
+    padding: 2px;
+    margin: 2px;
+  }
+
+  #equipos h5, p{
+    text-align: center;
+  }
+
+  
