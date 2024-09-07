@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+  }
+.container
+{
+    background-color: white;
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3%;
+}
+.titulo
+{
+    margin: 0 auto;
+}
+#phone, #lname, #fname, #email, .forma 
+{
+    
+    cursor: pointer;
+    padding: 12px 20px;
+    width: 70%;
+    
+}
+body
+{
+    background-color:  #d9f1ff ;
+}
+label {
+    padding: 30px 30px 30px 0;
+    display: inline-block;
+  }
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .btn
+{
+background-color:  #61c5ff ;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+
+  .derechos
+  {
+    text-align: center;
+    background-color:  #0f91db ;
+    
+    color: white;
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .titulo{
+    background-color:  #1aa7f7 ;
+    color: white;
+    height: 70%;
+    font-size: 40px;
+  }
